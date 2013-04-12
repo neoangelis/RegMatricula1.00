@@ -1,0 +1,189 @@
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\MvcProyecto.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\MvcProyecto.pdb
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\Antlr3.Runtime.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.AspNet.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.Core.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\EntityFramework.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\Microsoft.Web.Infrastructure.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\Newtonsoft.Json.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Net.Http.Formatting.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Helpers.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Http.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Http.WebHost.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Mvc.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Optimization.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Razor.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Deployment.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Razor.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\WebGrease.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\WebMatrix.Data.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\WebMatrix.WebData.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\EntityFramework.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\Newtonsoft.Json.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Net.Http.Formatting.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Helpers.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Http.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Http.WebHost.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Mvc.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.Razor.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Deployment.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Razor.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\WebMatrix.Data.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\WebMatrix.WebData.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.AspNet.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.Core.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\EntityFramework.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.Helpers.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.Http.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.Mvc.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.Optimization.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.Razor.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\WebMatrix.Data.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\bin\es\WebMatrix.WebData.resources.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.csprojResolveAssemblyReference.cache
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.dll
+c:\users\julio\documents\visual studio 2012\Projects\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.pdb
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\MvcProyecto.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\MvcProyecto.pdb
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.Core.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\EntityFramework.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Http.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Http.WebHost.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\WebMatrix.Data.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\WebMatrix.WebData.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\EntityFramework.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Http.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Http.WebHost.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\WebMatrix.Data.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\WebMatrix.WebData.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.Core.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\EntityFramework.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.Http.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\WebMatrix.Data.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.dll
+C:\Users\USUARIO\Desktop\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.pdb
+F:\MvcProyecto\MvcProyecto\bin\MvcProyecto.dll
+F:\MvcProyecto\MvcProyecto\bin\MvcProyecto.pdb
+F:\MvcProyecto\MvcProyecto\bin\Antlr3.Runtime.dll
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.AspNet.dll
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.Core.dll
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.dll
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.dll
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\MvcProyecto\MvcProyecto\bin\EntityFramework.dll
+F:\MvcProyecto\MvcProyecto\bin\Microsoft.Web.Infrastructure.dll
+F:\MvcProyecto\MvcProyecto\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\MvcProyecto\MvcProyecto\bin\Newtonsoft.Json.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Net.Http.Formatting.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Helpers.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Http.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Http.WebHost.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Mvc.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Optimization.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Razor.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Deployment.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.dll
+F:\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Razor.dll
+F:\MvcProyecto\MvcProyecto\bin\WebGrease.dll
+F:\MvcProyecto\MvcProyecto\bin\WebMatrix.Data.dll
+F:\MvcProyecto\MvcProyecto\bin\WebMatrix.WebData.dll
+F:\MvcProyecto\MvcProyecto\bin\EntityFramework.xml
+F:\MvcProyecto\MvcProyecto\bin\Newtonsoft.Json.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Net.Http.Formatting.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Helpers.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Http.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Http.WebHost.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Mvc.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.Razor.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Deployment.xml
+F:\MvcProyecto\MvcProyecto\bin\System.Web.WebPages.Razor.xml
+F:\MvcProyecto\MvcProyecto\bin\WebMatrix.Data.xml
+F:\MvcProyecto\MvcProyecto\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\MvcProyecto\MvcProyecto\bin\WebMatrix.WebData.xml
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.AspNet.xml
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.Core.xml
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OAuth.xml
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.xml
+F:\MvcProyecto\MvcProyecto\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\MvcProyecto\MvcProyecto\bin\es\EntityFramework.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Net.Http.Formatting.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.Helpers.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.Http.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.Http.WebHost.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.Mvc.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.Optimization.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.Razor.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\WebMatrix.Data.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+F:\MvcProyecto\MvcProyecto\bin\es\WebMatrix.WebData.resources.dll
+F:\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.csprojResolveAssemblyReference.cache
+F:\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.dll
+F:\MvcProyecto\MvcProyecto\obj\Debug\MvcProyecto.pdb
